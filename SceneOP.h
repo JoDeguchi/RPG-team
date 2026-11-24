@@ -3,7 +3,7 @@
 
 class GameManager;
 
-class Title :public GameState
+class SceneOP :public GameState
 {
 private:
 
